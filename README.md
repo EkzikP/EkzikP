@@ -6,6 +6,9 @@
 https://github.com/EkzikP/sdk_andromeda_go_v2 - SDK для ПО "Центр охраны"  
 https://github.com/EkzikP/tg-bot-v3 - Telegram-бот для взаимодействия с ПО "Центр охраны" через Telegram
 
+## Наработка навыка
+https://github.com/EkzikP/CodeRun - Решение задач с сайта Yandex (https://coderun.yandex.ru)
+
 ## Учебные проекты:  
 https://github.com/EkzikP/final-task-Sprint-4 - Итоговый проект 4 спринта (создание своей библиотеки и ее подключение)  
 https://github.com/EkzikP/final-task-rest-api - Итоговый проект 6 спринта (Создание API)  
